@@ -1,0 +1,15 @@
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.AssemblyInfoInputs.cache
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.AssemblyInfo.cs
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.csproj.CoreCompileInputs.cache
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.sourcelink.json
+G:\Unity\CsharpTestProject\Test\TEST_Con1\bin\Debug\net9.0\TEST_Con1.exe
+G:\Unity\CsharpTestProject\Test\TEST_Con1\bin\Debug\net9.0\TEST_Con1.deps.json
+G:\Unity\CsharpTestProject\Test\TEST_Con1\bin\Debug\net9.0\TEST_Con1.runtimeconfig.json
+G:\Unity\CsharpTestProject\Test\TEST_Con1\bin\Debug\net9.0\TEST_Con1.dll
+G:\Unity\CsharpTestProject\Test\TEST_Con1\bin\Debug\net9.0\TEST_Con1.pdb
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.dll
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\refint\TEST_Con1.dll
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.pdb
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\TEST_Con1.genruntimeconfig.cache
+G:\Unity\CsharpTestProject\Test\TEST_Con1\obj\Debug\net9.0\ref\TEST_Con1.dll
